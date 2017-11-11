@@ -1,2 +1,0 @@
-# SyntheticDataXTXResources
-Resources for 
